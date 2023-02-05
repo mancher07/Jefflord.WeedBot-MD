@@ -105,7 +105,7 @@ global.md = 'https://github.com/mancher07/Jefflord.WeedBot-MD'
 global.fb = 'https://www.facebook.com/groups/2729914150485298'
 
 
-global.nna = 'https://chat.whatsapp.com/EE4CviS2u4y5qWiNpxXR3Y' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/EE4CviS2u4y5qWiNpxXR3Y' //UPDATE JEFFBOT
 global.nna2 = 'EE4CviS2u4y5qWiNpxXR3Y'
 
 global.asistencia = 'Wa.me/5493417437217' //Dudas? escríbeme...
