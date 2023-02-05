@@ -115,25 +115,25 @@ global.asistencia = 'Wa.me/5493417437217' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ *🆁🅴🆂🆄🅻🆃🅰🅳🅾 | 🆁🅴🆂🆄🅻🆃* ⊱✅⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 | 𝙒𝘼𝙍𝙉𝙄𝙉𝙂* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ *🅰🅳🆅🅴🆁🆃🅴🅽🅲🅸🅰 | 🆆🅰🆁🅽🅸🅽🅶* ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ *𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊́𝙉 | 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉* ⊱⊱╮\n\n'
+global.iig = '╰⊱❕⊱ *🅸🅽🅵🅾🆁🅼🅰🅲🅸🅾🅽 | 🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽* ⊱⊱╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝙁𝘼𝙇𝙇𝙊́ | 𝙀𝙍𝙍𝙊𝙍* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ *🅵🅰🅻🅻🅾 | 🅴🆁🆁🅾🆁* ⊱❌⊱╮\n\n'
 global.fallo = fg
 
-global.mg = '╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇 | 𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂* ⊱❗️⊱╮\n\n'
+global.mg = '╰⊱❗️⊱ *🅻🅾 🆄🆂🅾 🅼🅰🅻 | 🆄🆂🅴 🅸🆃 🆆🆁🅾🅽🅶* ⊱❗️⊱╮\n\n'
 global.mal = mg
 
-global.eeg = '╰⊱📩⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱📩⊱╮\n\n'
+global.eeg = '╰⊱📩⊱ *🆁🅴🅿🅾🆁🆃🅴 | 🆁🅴🅿🅾🆁🆃* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱🩸🔪⊱ *🅴🆇🅸🆃🅾 | 🆂🆄🅲🅲🅴🆂🆂* ⊱🩸🔪⊱╮\n\n'
 global.exito = eg
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
@@ -142,12 +142,12 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
+global.wm = '𝙅𝙚𝙛𝙛𝙇𝙤𝙧𝙙-𝙒𝙚𝙚𝙙 : 𝕾𝖍𝖆𝖉𝖔𝖜 𝕶𝖎𝖓𝖌'
+global.igfg = '𝙅𝙚𝙛𝙛𝙇𝙤𝙧𝙙-𝙒𝙚𝙚𝙙'
+global.wait = '*🩸🔪 _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*🩸🔪 _Cargando | Charging..._ ▬▬▭▭▭*'
+global.waittt = '*🩸🔪 _Cargando | Charging..._ ▬▬▬▬▭▭*'
+global.waitttt = '*🩸🔪 _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
 global.nomorown = '5493417437217'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
