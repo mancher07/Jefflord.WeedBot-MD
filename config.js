@@ -7,21 +7,13 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], 
-  ['51993485767', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51980771033', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['51944156574', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
-  ['50368274385', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 5 💖🐈', true],
-  ['50761803843', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 6 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['56964787183', '𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧 | 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 💖🐈', true], 
+  ['5493417437217', '𝙅𝙚𝙛𝙛𝙇𝙤𝙧𝙙-𝙒𝙚𝙚𝙙 🩸🔪', true], 
   //['5492266466080'],
-  ['5492266613038'], ['51914230910'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
-  ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383'], ['595986674310']]
+  ['5492266613038']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['5493417437217'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -97,44 +89,26 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝙅𝙚𝙛𝙛𝙇𝙤𝙧𝙙-𝙒𝙚𝙚𝙙 🩸🔪'
+global.author = '𝕾𝖍𝖆𝖉𝖔𝖜 𝕶𝖎𝖓𝖌'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = '1.4.5'
+global.vs = '6.6.6'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = '𝙅𝙚𝙛𝙛𝙇𝙤𝙧𝙙-𝙒𝙚𝙚𝙙'
+global.yt = 'https://youtube.com/@DrCreepypasta1'
+global.yt2 = 'https://www.youtube.com/watch?v=iG0FODDAI-c'
+global.ig = 'https://www.instagram.com/creepypasta'
+global.md = 'https://github.com/mancher07/Jefflord.WeedBot-MD'
+global.fb = 'https://www.facebook.com/groups/2729914150485298'
 
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'DVhu9S9Zr7cBFFl26N61U3'
+global.nna = 'https://chat.whatsapp.com/EE4CviS2u4y5qWiNpxXR3Y' //UPDATE GATABOT
+global.nna2 = 'EE4CviS2u4y5qWiNpxXR3Y'
 
-global.nn = 'https://chat.whatsapp.com/KwoMppqeh4lH27rNM4qEbz' //Grupo 1
-
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
-
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-
-global.nnntt = 'https://chat.whatsapp.com/IfQOvlx41su7bPUnfTg7ZB' //Grupo 4
-
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-
-global.nnnttt4 = 'https://chat.whatsapp.com/ImKvcl3Pstb8IMZk02v692' //Grupo 8 COL
-
-global.paypal = 'https://paypal.me/OficialGD'
-
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/5493417437217' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -174,7 +148,7 @@ global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '5493417437217'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -215,28 +189,28 @@ global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://i.imgur.com/IXlUwTW.jpg'
-global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
+global.img = 'https://i.imgur.com/izpj3d8.jpg'
+global.img2 = 'https://i.imgur.com/Wj7FiD1.jpg'
 
-global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem
-global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem
+global.img3 = 'https://i.imgur.com/SwD3WPs.jpg' //prem
+global.img4 = 'https://i.imgur.com/vWAqkYZ.jpg' //prem
 
-global.img5 = 'https://i.imgur.com/iL1snRx.jpeg'
-global.img6 = 'https://i.imgur.com/cYFgSKv.jpeg'
-global.img7 = 'https://i.imgur.com/JqL3h2V.jpeg'
-global.img8 = 'https://i.imgur.com/PCujt1s.jpeg'
-global.img9 = 'https://i.imgur.com/xfUEdDb.jpeg'
+global.img5 = 'https://i.imgur.com/u4gGg9E.jpg'
+global.img6 = 'https://i.imgur.com/EvVb1Vh.jpg'
+global.img7 = 'https://i.imgur.com/kuCgC5J.jpg'
+global.img8 = 'https://i.imgur.com/DxA4lOP.jpg'
+global.img9 = 'https://i.imgur.com/NfOUqI1.jpg'
 
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg'
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg'
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
-global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
+global.img10 = 'https://i.imgur.com/f0CjQEQ.jpg'
+global.img11 = 'https://i.imgur.com/H7dVi97.jpg'
+global.img12 = 'https://i.imgur.com/LUuAGmk.jpg'
+global.img13 = 'https://i.imgur.com/wVjAprb.jpg'
+global.img14 = 'https://i.imgur.com/datxwd0.jpg'
+global.img15 = 'https://i.imgur.com/W1a0OOY.jpg'
 
-global.img16 = 'https://i.imgur.com/11MRjo4.jpeg' //+18
+global.img16 = 'https://i.imgur.com/e2oovgq.jpg' //+18
 
-global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg'
+global.img17 = 'https://i.imgur.com/aDj05D9.jpg'
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb]
